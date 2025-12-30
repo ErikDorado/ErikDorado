@@ -63,6 +63,12 @@ I focus on **practical, functional, and scalable solutions**, prioritizing clari
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+<p>
+  <a href="https://www.instagram.com/_erk.345_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 
 
 <br>
